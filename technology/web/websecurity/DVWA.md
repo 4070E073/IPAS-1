@@ -23,7 +23,7 @@ https://www.itread01.com/content/1502196979.html
 ```
 Owasp TOP 10 2010年發布的數據
 The OWASP Top 10 Web ApplicationSecurity Risks for 2010 are:
-A1: Injection // 註入漏洞
+A1: Injection // 注入漏洞
 A2: Cross-Site Scripting (XSS) //跨站腳本
 A3: Broken Authentication and Session Management //錯誤的授權和會話管理
 A4: Insecure Direct Object References //不正確的直接對象引用
